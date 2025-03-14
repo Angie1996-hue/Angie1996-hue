@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angie1996-hue
+- 👋 Hi, I’m Nancy W. Wahome
 - 👀 I’m interested in Engineering, Data Science and Analytics
 - 🌱 I’m currently learning Machine Learning in Data Science
 - 💞️ I’m looking to collaborate on AI projects including AI training, testing and predicting
